@@ -4,6 +4,9 @@
 
 ------------------------------
 
+
+Este código deve ser utilizado em ambiente controlado onde você tenha permissão para realizar o teste de fishing.
+
 ![Verify You Are Human](https://github.com/user-attachments/assets/56be51b9-e58d-40e9-bdb1-54bcc11d4180)
 
 Este é uma pequena amostra para recriar a engenharia social e a isca de phishing vista recentemente na natureza por volta de agosto/setembro de 2024.
@@ -58,4 +61,8 @@ Então esta recreação tem algumas vantagens extras:
 * Talvez isso pudesse ser usado dentro de um `iframe` elemento ou facilmente incorporado como um widget em qualquer lugar .
 * Talvez isso pudesse ter um pouco mais de controle do lado do servidor para verificar o agente do usuário do cliente e fazer as coisas de forma diferente, ou ajustar a carga útil adequadamente.
 * Talvez isso pudesse ser transformado em um Github Pages ou Vercel tidbit fácil para ter um domínio público e ferramentas fáceis
+
+
+<h1>Legal Disclaimer:</h1>
+**Usage of this tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by the programme
 
