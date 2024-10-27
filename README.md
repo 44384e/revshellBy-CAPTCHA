@@ -64,5 +64,5 @@ Então esta recreação tem algumas vantagens extras:
 
 
 <h1>Legal Disclaimer:</h1>
-**Usage of this tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by the programme
+**O uso desta ferramenta para atacar alvos sem consentimento mútuo prévio é ilegal. É responsabilidade do usuário final obedecer a todas as leis locais, estaduais e federais aplicáveis. Os desenvolvedores não assumem nenhuma responsabilidade e não são responsáveis ​​por qualquer uso indevido ou dano causado pelo programa
 
